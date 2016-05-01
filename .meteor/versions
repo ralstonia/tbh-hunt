@@ -169,9 +169,9 @@ telescope:subscribe-to-posts@0.25.7
 telescope:tagline-banner@0.25.7
 telescope:tags@0.25.7
 telescope:theme-base@0.25.7
-telescope:theme-hubble@0.25.7
 telescope:update-prompt@0.25.7
 telescope:users@0.25.7
+telescope:zeiss@0.2.3
 templating@1.1.5
 templating-tools@1.0.0
 tmeasday:publish-counts@0.7.3
