@@ -38,4 +38,4 @@ telescope:update-prompt
 ############ Your Custom Packages ############
 
 # custom
-telescope:zeiss
+telescope:theme-hubble
